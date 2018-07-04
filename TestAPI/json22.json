@@ -1,0 +1,27 @@
+﻿{
+  "SearchCandidate": {
+    "HotelID": 480728
+  },
+  "Settings": {
+    "PrimaryLangID": "cn",
+    "ExtendedNodes": [
+      "HotelStaticInfo.GeoInfo",
+      "HotelStaticInfo.NearbyPOIs",
+      "HotelStaticInfo.TransportationInfos",
+      "HotelStaticInfo.Brand",
+      "HotelStaticInfo.Ratings",
+      "HotelStaticInfo.Policies",
+      "HotelStaticInfo.AcceptedCreditCards",
+      "HotelStaticInfo.ImportantNotices",
+      "HotelStaticInfo.Facilities",
+      "HotelStaticInfo.Pictures",
+      "HotelStaticInfo.Descriptions",
+      "HotelStaticInfo.Themes",
+      "HotelStaticInfo.ContactInfo",
+      "HotelStaticInfo.HotelTags.IsHeCheng",
+      "HotelStaticInfo.HotelTags.IsBookable",
+      "“HotelStaticInfo.ExternalFacility.Parking”，", 
+      "“HotelStaticInfo.ExternalFacility.ChargingPoint”" 
+    ]
+  }
+}

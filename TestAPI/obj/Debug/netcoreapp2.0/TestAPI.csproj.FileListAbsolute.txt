@@ -1,0 +1,13 @@
+C:\Users\qian\Source\Repos\TestAPI\TestAPI\bin\Debug\netcoreapp2.0\TestAPI.deps.json
+C:\Users\qian\Source\Repos\TestAPI\TestAPI\bin\Debug\netcoreapp2.0\TestAPI.runtimeconfig.json
+C:\Users\qian\Source\Repos\TestAPI\TestAPI\bin\Debug\netcoreapp2.0\TestAPI.runtimeconfig.dev.json
+C:\Users\qian\Source\Repos\TestAPI\TestAPI\bin\Debug\netcoreapp2.0\TestAPI.dll
+C:\Users\qian\Source\Repos\TestAPI\TestAPI\bin\Debug\netcoreapp2.0\TestAPI.pdb
+C:\Users\qian\Source\Repos\TestAPI\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.csprojResolveAssemblyReference.cache
+C:\Users\qian\Source\Repos\TestAPI\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.csproj.CoreCompileInputs.cache
+C:\Users\qian\Source\Repos\TestAPI\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.AssemblyInfoInputs.cache
+C:\Users\qian\Source\Repos\TestAPI\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.AssemblyInfo.cs
+C:\Users\qian\Source\Repos\TestAPI\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.dll
+C:\Users\qian\Source\Repos\TestAPI\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.pdb
+C:\Users\qian\Source\Repos\TestAPI\TestAPI\bin\Debug\netcoreapp2.0\system.web.extensions.dll
+C:\Users\qian\Source\Repos\TestAPI\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.csproj.CopyComplete

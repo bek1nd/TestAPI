@@ -1,0 +1,29 @@
+﻿{
+  "SearchCandidate": {
+    "HotelID": 436187,
+    "RoomIDs": [ "18162" ]
+  },
+  "Settings": {
+    "PrimaryLangID": "en",
+    "ExtendedNodes": [
+      "RoomTypeInfo.Facilities",
+      "RoomTypeInfo.Pictures",
+      "RoomTypeInfo.Descriptions",
+      "RoomTypeInfo.Smoking",
+      "RoomTypeInfo.BroadNet",
+      "RoomTypeInfo.ChildLimit",
+      "RoomTypeInfo.RoomBedInfos",
+      "RoomInfo.ApplicabilityInfo",
+      "RoomInfo.Smoking",
+      "RoomInfo.BroadNet",
+      "RoomInfo.RoomBedInfos",
+      "RoomInfo.RoomFGToPPInfo",
+      "RoomInfo.RoomGiftInfos",
+      "RoomInfo.ChannelLimit",
+      "RoomInfo.ExpressCheckout",
+      "RoomInfo.RoomTags",
+      "RoomInfo.BookingRules",
+      "RoomInfo.Descriptions"
+    ]
+  }
+}
